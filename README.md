@@ -1,2 +1,2 @@
-Site's source code:  
+Site:  
 https://b1ankk.github.io
